@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(command -v jq)",
+      "Bash(command -v bash)",
+      "Skill(update-config)",
+      "Bash(command -v python)",
+      "Bash(command -v python3)",
+      "Bash(command -v py)",
+      "Bash(command -v winget.exe)",
+      "Bash(command -v choco)",
+      "Bash(command -v scoop)",
+      "Bash(winget.exe install *)",
+      "Bash(command -v jq.exe)",
+      "Bash(where.exe jq *)",
+      "Bash(bash C:/Users/FUCK/.claude/statusline-command.sh)",
+      "Bash(powershell.exe *)",
+      "Bash(/c/Users/FUCK/AppData/Local/Microsoft/WinGet/Packages/jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe/jq.exe *)",
+      "Bash(printf '%s' '{\"model\":{\"display_name\":\"Test Model\"},\"workspace\":{\"current_dir\":\"G:\\\\\\\\python\\\\\\\\code\\\\\\\\basic\\\\\\\\heima_learn_py_code\\\\\\\\fastapi\\\\\\\\toutiao\\\\\\\\toutiao_backend\",\"project_dir\":\"G:\\\\\\\\python\\\\\\\\code\\\\\\\\basic\\\\\\\\heima_learn_py_code\\\\\\\\fastapi\\\\\\\\toutiao\\\\\\\\toutiao_backend\"},\"context_window\":{\"used_percentage\":42,\"current_usage\":{\"input_tokens\":12345,\"output_tokens\":678,\"cache_read_input_tokens\":80,\"cache_creation_input_tokens\":20}}}')",
+      "Bash(git add *)"
+    ]
+  }
+}
